@@ -1,6 +1,24 @@
 Hello world
 
+<<<<<<< HEAD
 ertertert
 rtretert
 retert
 retert
+=======
+
+wefwefwef
+wef
+aW
+FA
+WF
+AWF
+AW
+F
+AWEF
+AWFE
+WE
+FW
+F
+EWF
+>>>>>>> changes
